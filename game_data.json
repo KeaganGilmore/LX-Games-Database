@@ -1,0 +1,33 @@
+{
+    "slider": [
+        {
+            "correctResponseTimes": [
+                8.636,
+                6.866,
+                2.333,
+                1.849,
+                1.134,
+                0.79,
+                0.594,
+                1.429
+            ],
+            "incorrectResponseTimes": [
+                8.636,
+                1.011,
+                0.722,
+                0.79,
+                0.653,
+                0.549,
+                0.371,
+                0.657,
+                0.613
+            ],
+            "endTime": 1716211890,
+            "startTime": 29.943,
+            "totalQuestions": 9,
+            "correctAnswers": 8,
+            "incorrectAnswers": 9,
+            "sessionLength": 32.8248923
+        }
+    ]
+}
