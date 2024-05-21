@@ -1,0 +1,200 @@
+{
+    "slider": [
+        {
+            "correctAnswers": 12,
+            "settings": {
+                "standardReinforcement": true,
+                "isMathMult": true,
+                "isQuestionPosed": true,
+                "increaseSpawningRateExponential": true,
+                "isSplatImages": true,
+                "dropSpeedStandard": true,
+                "isSpeedIncreasing": true,
+                "increaseSpeedRateExponential": true,
+                "relativeReinforcement": true,
+                "moderate": true
+            },
+            "answersAndQuestions": [
+                {
+                    "responseTime": 3.238,
+                    "question": "3 x 11 = ?",
+                    "clickedAnswer": 33,
+                    "correct": true,
+                    "correctAnswer": 33
+                },
+                {
+                    "responseTime": 1.417,
+                    "question": "8 x 3 = ?",
+                    "clickedAnswer": 24,
+                    "correct": true,
+                    "correctAnswer": 24
+                },
+                {
+                    "responseTime": 2.027,
+                    "question": "10 x 11 = ?",
+                    "clickedAnswer": 110,
+                    "correct": true,
+                    "correctAnswer": 110
+                },
+                {
+                    "responseTime": 3.578,
+                    "question": "12 x 4 = ?",
+                    "clickedAnswer": 48,
+                    "correct": true,
+                    "correctAnswer": 48
+                },
+                {
+                    "responseTime": 2.095,
+                    "question": "4 x 12 = ?",
+                    "clickedAnswer": 48,
+                    "correct": true,
+                    "correctAnswer": 48
+                },
+                {
+                    "responseTime": 4.488,
+                    "question": "4 x 9 = ?",
+                    "clickedAnswer": 36,
+                    "correct": true,
+                    "correctAnswer": 36
+                },
+                {
+                    "responseTime": 1.072,
+                    "question": "8 x 9 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 72
+                },
+                {
+                    "responseTime": 0.8,
+                    "question": "7 x 9 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 63
+                },
+                {
+                    "responseTime": 1.109,
+                    "question": "12 x 12 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 144
+                },
+                {
+                    "responseTime": 2.5,
+                    "question": "3 x 9 = ?",
+                    "clickedAnswer": 27,
+                    "correct": true,
+                    "correctAnswer": 27
+                },
+                {
+                    "responseTime": 1.536,
+                    "question": "3 x 4 = ?",
+                    "clickedAnswer": 12,
+                    "correct": true,
+                    "correctAnswer": 12
+                },
+                {
+                    "responseTime": 2.134,
+                    "question": "8 x 5 = ?",
+                    "clickedAnswer": 40,
+                    "correct": true,
+                    "correctAnswer": 40
+                },
+                {
+                    "responseTime": 1.301,
+                    "question": "7 x 7 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 49
+                },
+                {
+                    "responseTime": 1.135,
+                    "question": "6 x 6 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 36
+                },
+                {
+                    "responseTime": 0.955,
+                    "question": "10 x 8 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 80
+                },
+                {
+                    "responseTime": 0.861,
+                    "question": "5 x 6 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 30
+                },
+                {
+                    "responseTime": 0.951,
+                    "question": "3 x 7 = ?",
+                    "clickedAnswer": 21,
+                    "correct": true,
+                    "correctAnswer": 21
+                },
+                {
+                    "responseTime": 0.92700000000001,
+                    "question": "8 x 8 = ?",
+                    "clickedAnswer": 64,
+                    "correct": true,
+                    "correctAnswer": 64
+                },
+                {
+                    "responseTime": 0.628,
+                    "question": "9 x 4 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 36
+                },
+                {
+                    "responseTime": 0.74,
+                    "question": "12 x 5 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 60
+                },
+                {
+                    "responseTime": 0.735,
+                    "question": "10 x 5 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 50
+                },
+                {
+                    "responseTime": 1.01,
+                    "question": "3 x 4 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 12
+                },
+                {
+                    "responseTime": 0.856,
+                    "question": "6 x 11 = ?",
+                    "clickedAnswer": 66,
+                    "correct": true,
+                    "correctAnswer": 66
+                },
+                {
+                    "responseTime": 0.874,
+                    "question": "12 x 4 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 48
+                },
+                {
+                    "responseTime": 0.911,
+                    "question": "8 x 11 = ?",
+                    "clickedAnswer": "Incorrect",
+                    "correct": false,
+                    "correctAnswer": 88
+                }
+            ],
+            "incorrectAnswers": 13,
+            "endTime": 1716288873,
+            "startTime": 41.368,
+            "sessionLength": 41.3402605
+        }
+    ]
+}
