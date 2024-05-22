@@ -2,396 +2,197 @@
     "wkyu4sz": {
         "slider": [
             {
-                "sessionLength": 29.8343191,
-                "correctAnswers": 6,
-                "answersAndQuestions": [
-                    {
-                        "responseTime": 3.264,
-                        "correct": true
-                    },
-                    {
-                        "responseTime": 1.96,
-                        "correct": true
-                    },
-                    {
-                        "responseTime": 3.088,
-                        "correct": true
-                    },
-                    {
-                        "responseTime": 4.663,
-                        "correct": true
-                    },
-                    {
-                        "responseTime": 2.459,
-                        "correct": true
-                    },
-                    {
-                        "responseTime": 3.363,
-                        "correct": false,
-                        "clickedAnswer": "28"
-                    },
-                    {
-                        "responseTime": 1.641,
-                        "correct": false,
-                        "clickedAnswer": "no-input"
-                    },
-                    {
-                        "responseTime": 0.0019999999999989,
-                        "correct": true
-                    },
-                    {
-                        "responseTime": 3.217,
-                        "correct": false,
-                        "clickedAnswer": "125"
-                    },
-                    {
-                        "responseTime": 1.549,
-                        "correct": false,
-                        "clickedAnswer": "no-input"
-                    },
-                    {
-                        "responseTime": 0.0019999999999989,
-                        "correct": false,
-                        "clickedAnswer": "no-input"
-                    },
-                    {
-                        "responseTime": 2.284,
-                        "correct": false,
-                        "clickedAnswer": "121"
-                    },
-                    {
-                        "responseTime": 0.756,
-                        "correct": false,
-                        "clickedAnswer": "no-input"
-                    }
-                ],
-                "settings": {
-                    "isSpeedIncreasing": true,
-                    "increaseSpeedRateExponential": true,
-                    "isSplatImages": true,
-                    "standardReinforcement": true,
-                    "relativeReinforcement": true,
-                    "moderate": true,
-                    "increaseSpawningRateExponential": true,
-                    "isMathMult": true,
-                    "isQuestionPosed": true,
-                    "dropSpeedStandard": true
-                },
-                "endTime": 1716306931,
-                "startTime": 31.95,
-                "incorrectAnswers": 7
-            },
-            {
-                "endTime": 1716307179,
-                "sessionLength": 22.0105029,
-                "correctAnswers": 3,
-                "answersAndQuestions": [
-                    {
-                        "responseTime": 3.642,
-                        "correct": true
-                    },
-                    {
-                        "responseTime": 4.753,
-                        "correct": true
-                    },
-                    {
-                        "responseTime": 2.571,
-                        "correct": true
-                    },
-                    {
-                        "clickedAnswer": "108",
-                        "responseTime": 1.739,
-                        "correct": false
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "responseTime": 3.614,
-                        "correct": false
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "responseTime": 1.446,
-                        "correct": false
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "responseTime": 3.357,
-                        "correct": false
-                    }
-                ],
-                "settings": {
-                    "standardReinforcement": true,
-                    "isMathMult": true,
-                    "moderate": true,
-                    "increaseSpawningRateExponential": true,
-                    "isQuestionPosed": true,
-                    "dropSpeedStandard": true,
-                    "isSpeedIncreasing": true,
-                    "increaseSpeedRateExponential": true,
-                    "isSplatImages": true,
-                    "relativeReinforcement": true
-                },
-                "incorrectAnswers": 4,
-                "startTime": 24.022
-            },
-            {
-                "incorrectAnswers": 4,
-                "startTime": 22.817,
-                "endTime": 1716307303,
-                "sessionLength": 20.7675973,
-                "correctAnswers": 3,
-                "answersAndQuestions": [
-                    {
-                        "correct": true,
-                        "responseTime": 6.266
-                    },
-                    {
-                        "correct": true,
-                        "responseTime": 1.499
-                    },
-                    {
-                        "correct": true,
-                        "responseTime": 1.846
-                    },
-                    {
-                        "clickedAnswer": "107",
-                        "correct": false,
-                        "responseTime": 1.473
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "correct": false,
-                        "responseTime": 3.748
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "correct": false,
-                        "responseTime": 1.436
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "correct": false,
-                        "responseTime": 3.571
-                    }
-                ],
-                "settings": {
-                    "standardReinforcement": true,
-                    "isMathMult": true,
-                    "moderate": true,
-                    "isSplatImages": true,
-                    "increaseSpawningRateExponential": true,
-                    "dropSpeedStandard": true,
-                    "relativeReinforcement": true,
-                    "isSpeedIncreasing": true,
-                    "increaseSpeedRateExponential": true,
-                    "isQuestionPosed": true
-                }
-            },
-            {
                 "incorrectAnswers": 1,
-                "endTime": 1716307463,
-                "sessionLength": 6.9416185,
+                "endTime": 1716399646,
+                "sessionLength": 3.52303,
                 "correctAnswers": 0,
                 "answersAndQuestions": [
                     {
-                        "clickedAnswer": "61",
-                        "responseTime": 6.84,
-                        "correct": false
+                        "clickedAnswer": "46",
+                        "responseTime": 3.407,
+                        "correct": false,
+                        "question": "4 x 8 = ?"
                     }
                 ],
                 "settings": {
                     "standardReinforcement": true,
                     "isMathMult": true,
                     "moderate": true,
-                    "isQuestionPosed": true,
-                    "dropSpeedStandard": true,
-                    "isSplatImages": true,
-                    "isSpeedIncreasing": true,
-                    "increaseSpeedRateExponential": true,
-                    "relativeReinforcement": true,
-                    "increaseSpawningRateExponential": true
-                },
-                "startTime": 8.483
-            },
-            {
-                "correctAnswers": 6,
-                "answersAndQuestions": [
-                    {
-                        "responseTime": 2.983,
-                        "correct": true
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "responseTime": 5.519,
-                        "correct": false
-                    },
-                    {
-                        "responseTime": 1.92,
-                        "correct": true
-                    },
-                    {
-                        "responseTime": 2.475,
-                        "correct": true
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "responseTime": 5.193,
-                        "correct": false
-                    },
-                    {
-                        "responseTime": 4.159,
-                        "correct": true
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "responseTime": 4.883,
-                        "correct": false
-                    },
-                    {
-                        "responseTime": 2.881,
-                        "correct": true
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "responseTime": 4.693,
-                        "correct": false
-                    },
-                    {
-                        "responseTime": 3.161,
-                        "correct": true
-                    },
-                    {
-                        "clickedAnswer": "71",
-                        "responseTime": 3.462,
-                        "correct": false
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "responseTime": 0.758,
-                        "correct": false
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "responseTime": 3.356,
-                        "correct": false
-                    }
-                ],
-                "settings": {
-                    "isQuestionPosed": true,
                     "increaseSpawningRateExponential": true,
-                    "isSplatImages": true,
-                    "dropSpeedStandard": true,
-                    "isSpeedIncreasing": true,
-                    "increaseSpeedRateExponential": true,
-                    "relativeReinforcement": true,
-                    "standardReinforcement": true,
-                    "isMathMult": true,
-                    "moderate": true
-                },
-                "incorrectAnswers": 7,
-                "endTime": 1716307540,
-                "startTime": 48.401,
-                "sessionLength": 46.8856813
-            },
-            {
-                "sessionLength": 20.5483184,
-                "correctAnswers": 4,
-                "answersAndQuestions": [
-                    {
-                        "responseTime": 2.593,
-                        "correct": true
-                    },
-                    {
-                        "responseTime": 1.644,
-                        "correct": true
-                    },
-                    {
-                        "responseTime": 1.536,
-                        "correct": true
-                    },
-                    {
-                        "clickedAnswer": "111",
-                        "responseTime": 3.628,
-                        "correct": false
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "responseTime": 1.91,
-                        "correct": false
-                    },
-                    {
-                        "responseTime": 0.531,
-                        "correct": true
-                    },
-                    {
-                        "clickedAnswer": "118",
-                        "responseTime": 4.014,
-                        "correct": false
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "responseTime": 1.903,
-                        "correct": false
-                    },
-                    {
-                        "clickedAnswer": "no-input",
-                        "responseTime": 1.907,
-                        "correct": false
-                    }
-                ],
-                "settings": {
-                    "moderate": true,
-                    "increaseSpawningRateExponential": true,
-                    "dropSpeedStandard": true,
-                    "isSpeedIncreasing": true,
                     "isQuestionPosed": true,
-                    "isSplatImages": true,
-                    "relativeReinforcement": true,
+                    "dropSpeedFast": true,
+                    "isSpeedIncreasing": true,
                     "increaseSpeedRateExponential": true,
-                    "standardReinforcement": true,
-                    "isMathMult": true
+                    "isSplatImages": true
                 },
-                "incorrectAnswers": 5,
-                "endTime": 1716308617,
-                "startTime": 22.877
+                "startTime": 0.835
             },
             {
-                "incorrectAnswers": 4,
-                "endTime": 1716308742,
-                "startTime": 22.724,
-                "sessionLength": 20.6613488,
-                "correctAnswers": 3,
+                "incorrectAnswers": 14,
+                "endTime": 1716399837,
+                "sessionLength": 59.7553878,
+                "correctAnswers": 13,
                 "answersAndQuestions": [
                     {
-                        "responseTime": 6.019,
-                        "correct": true
+                        "responseTime": 2.534,
+                        "correct": true,
+                        "question": "12 x 5 = ?",
+                        "clickedAnswer": 60
                     },
                     {
-                        "responseTime": 2.843,
-                        "correct": true
+                        "responseTime": 1.694,
+                        "correct": true,
+                        "question": "3 x 10 = ?",
+                        "clickedAnswer": 30
                     },
                     {
-                        "responseTime": 1.662,
-                        "correct": true
-                    },
-                    {
-                        "responseTime": 2.79,
+                        "responseTime": 2.846,
                         "correct": false,
-                        "clickedAnswer": "70"
+                        "question": "9 x 4 = ?",
+                        "clickedAnswer": "68"
                     },
                     {
-                        "responseTime": 2.31,
+                        "responseTime": 2.078,
+                        "correct": true,
+                        "question": "3 x 11 = ?",
+                        "clickedAnswer": 33
+                    },
+                    {
+                        "responseTime": 2.183,
+                        "correct": true,
+                        "question": "3 x 11 = ?",
+                        "clickedAnswer": 33
+                    },
+                    {
+                        "responseTime": 1.547,
+                        "correct": true,
+                        "question": "8 x 11 = ?",
+                        "clickedAnswer": 88
+                    },
+                    {
+                        "responseTime": 1.947,
+                        "correct": true,
+                        "question": "5 x 10 = ?",
+                        "clickedAnswer": 50
+                    },
+                    {
+                        "responseTime": 1.849,
+                        "correct": true,
+                        "question": "8 x 9 = ?",
+                        "clickedAnswer": 72
+                    },
+                    {
+                        "responseTime": 1.064,
                         "correct": false,
+                        "question": "3 x 7 = ?",
+                        "clickedAnswer": "122"
+                    },
+                    {
+                        "responseTime": 1.116,
+                        "correct": true,
+                        "question": "6 x 4 = ?",
+                        "clickedAnswer": 24
+                    },
+                    {
+                        "responseTime": 1.861,
+                        "correct": true,
+                        "question": "4 x 12 = ?",
+                        "clickedAnswer": 48
+                    },
+                    {
+                        "responseTime": 2.487,
+                        "correct": false,
+                        "question": "3 x 8 = ?",
+                        "clickedAnswer": "69"
+                    },
+                    {
+                        "responseTime": 2.348,
+                        "correct": false,
+                        "question": "11 x 9 = ?",
+                        "clickedAnswer": "51"
+                    },
+                    {
+                        "responseTime": 2.928,
+                        "correct": false,
+                        "question": "12 x 7 = ?",
                         "clickedAnswer": "no-input"
                     },
                     {
-                        "responseTime": 2.475,
-                        "correct": false,
-                        "clickedAnswer": "76"
+                        "responseTime": 1.627,
+                        "correct": true,
+                        "question": "11 x 6 = ?",
+                        "clickedAnswer": 66
                     },
                     {
-                        "responseTime": 1.895,
+                        "responseTime": 1.901,
                         "correct": false,
+                        "question": "6 x 12 = ?",
+                        "clickedAnswer": "134"
+                    },
+                    {
+                        "responseTime": 2.068,
+                        "correct": true,
+                        "question": "3 x 9 = ?",
+                        "clickedAnswer": 27
+                    },
+                    {
+                        "responseTime": 2.921,
+                        "correct": false,
+                        "question": "5 x 5 = ?",
+                        "clickedAnswer": "no-input"
+                    },
+                    {
+                        "responseTime": 2.03,
+                        "correct": false,
+                        "question": "10 x 3 = ?",
+                        "clickedAnswer": "104"
+                    },
+                    {
+                        "responseTime": 2.014,
+                        "correct": true,
+                        "question": "7 x 3 = ?",
+                        "clickedAnswer": 21
+                    },
+                    {
+                        "responseTime": 1.498,
+                        "correct": false,
+                        "question": "7 x 12 = ?",
+                        "clickedAnswer": "88"
+                    },
+                    {
+                        "responseTime": 2.709,
+                        "correct": false,
+                        "question": "11 x 12 = ?",
+                        "clickedAnswer": "no-input"
+                    },
+                    {
+                        "responseTime": 2.604,
+                        "correct": false,
+                        "question": "6 x 4 = ?",
+                        "clickedAnswer": "no-input"
+                    },
+                    {
+                        "responseTime": 2.532,
+                        "correct": false,
+                        "question": "4 x 10 = ?",
+                        "clickedAnswer": "no-input"
+                    },
+                    {
+                        "responseTime": 1.512,
+                        "correct": true,
+                        "question": "9 x 9 = ?",
+                        "clickedAnswer": 81
+                    },
+                    {
+                        "responseTime": 2.496,
+                        "correct": false,
+                        "question": "3 x 7 = ?",
+                        "clickedAnswer": "no-input"
+                    },
+                    {
+                        "responseTime": 2.42,
+                        "correct": false,
+                        "question": "7 x 4 = ?",
                         "clickedAnswer": "no-input"
                     }
                 ],
@@ -399,14 +200,14 @@
                     "standardReinforcement": true,
                     "isMathMult": true,
                     "moderate": true,
+                    "isQuestionPosed": true,
                     "increaseSpawningRateExponential": true,
                     "isSplatImages": true,
-                    "dropSpeedStandard": true,
-                    "relativeReinforcement": true,
+                    "dropSpeedFast": true,
                     "isSpeedIncreasing": true,
-                    "increaseSpeedRateExponential": true,
-                    "isQuestionPosed": true
-                }
+                    "increaseSpeedRateExponential": true
+                },
+                "startTime": 60.426
             }
         ]
     }
