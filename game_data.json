@@ -1,214 +1,132 @@
 {
     "wkyu4sz": {
-        "slider": [
-            {
-                "incorrectAnswers": 1,
-                "endTime": 1716399646,
-                "sessionLength": 3.52303,
-                "correctAnswers": 0,
-                "answersAndQuestions": [
-                    {
-                        "clickedAnswer": "46",
-                        "responseTime": 3.407,
-                        "correct": false,
-                        "question": "4 x 8 = ?"
+        "dob": "2006-15-12",
+        "grade": "undergraduate",
+        "games": {
+            "slider": [
+                {
+                    "endTime": 1716411403,
+                    "incorrectAnswers": 1,
+                    "answersAndQuestions": [
+                        {
+                            "correct": false,
+                            "responseTime": 2.798,
+                            "clickedAnswer": "57",
+                            "question": "6 x 9 = ?"
+                        }
+                    ],
+                    "sessionLength": 2.8848881,
+                    "correctAnswers": 0,
+                    "startTime": 0.74,
+                    "settings": {
+                        "standardReinforcement": true,
+                        "isMathMult": true,
+                        "moderate": true,
+                        "isQuestionPosed": true,
+                        "dropSpeedFast": true,
+                        "isSpeedIncreasing": true,
+                        "increaseSpeedRateExponential": true,
+                        "isSplatImages": true,
+                        "increaseSpawningRateExponential": true
                     }
-                ],
-                "settings": {
-                    "standardReinforcement": true,
-                    "isMathMult": true,
-                    "moderate": true,
-                    "increaseSpawningRateExponential": true,
-                    "isQuestionPosed": true,
-                    "dropSpeedFast": true,
-                    "isSpeedIncreasing": true,
-                    "increaseSpeedRateExponential": true,
-                    "isSplatImages": true
                 },
-                "startTime": 0.835
-            },
-            {
-                "incorrectAnswers": 14,
-                "endTime": 1716399837,
-                "sessionLength": 59.7553878,
-                "correctAnswers": 13,
-                "answersAndQuestions": [
-                    {
-                        "responseTime": 2.534,
-                        "correct": true,
-                        "question": "12 x 5 = ?",
-                        "clickedAnswer": 60
+                {
+                    "correctAnswers": 1,
+                    "startTime": 3.629,
+                    "settings": {
+                        "increaseSpawningRateExponential": true,
+                        "isSplatImages": true,
+                        "dropSpeedFast": true,
+                        "isSpeedIncreasing": true,
+                        "increaseSpeedRateExponential": true,
+                        "standardReinforcement": true,
+                        "isMathMult": true,
+                        "isQuestionPosed": true,
+                        "moderate": true
                     },
-                    {
-                        "responseTime": 1.694,
-                        "correct": true,
-                        "question": "3 x 10 = ?",
-                        "clickedAnswer": 30
+                    "endTime": 1716411426,
+                    "incorrectAnswers": 2,
+                    "answersAndQuestions": [
+                        {
+                            "question": "5 x 5 = ?",
+                            "correct": true,
+                            "clickedAnswer": 25,
+                            "responseTime": 1.962
+                        },
+                        {
+                            "question": "4 x 6 = ?",
+                            "correct": false,
+                            "clickedAnswer": "68",
+                            "responseTime": 0.646
+                        },
+                        {
+                            "question": "5 x 3 = ?",
+                            "correct": false,
+                            "clickedAnswer": "40",
+                            "responseTime": 0.862
+                        }
+                    ],
+                    "sessionLength": 3.7826001
+                }
+            ]
+        }
+    },
+    "nw80eh5": {
+        "dob": "2007-27-09",
+        "grade": 11,
+        "games": {
+            "slider": [
+                {
+                    "sessionLength": 5.2720395,
+                    "correctAnswers": 2,
+                    "answersAndQuestions": [
+                        {
+                            "question": "5 x 3 = ?",
+                            "responseTime": 2.063,
+                            "correct": true,
+                            "clickedAnswer": 15
+                        },
+                        {
+                            "question": "5 x 9 = ?",
+                            "responseTime": 0.882,
+                            "correct": true,
+                            "clickedAnswer": 45
+                        },
+                        {
+                            "question": "5 x 5 = ?",
+                            "responseTime": 0.612,
+                            "correct": false,
+                            "clickedAnswer": "74"
+                        },
+                        {
+                            "question": "5 x 6 = ?",
+                            "responseTime": 0.609,
+                            "correct": false,
+                            "clickedAnswer": "87"
+                        },
+                        {
+                            "question": "9 x 12 = ?",
+                            "responseTime": 0.602,
+                            "correct": false,
+                            "clickedAnswer": "98"
+                        }
+                    ],
+                    "settings": {
+                        "dropSpeedFast": true,
+                        "isSpeedIncreasing": true,
+                        "increaseSpeedRateExponential": true,
+                        "standardReinforcement": true,
+                        "isMathMult": true,
+                        "moderate": true,
+                        "isSplatImages": true,
+                        "increaseSpawningRateExponential": true,
+                        "isQuestionPosed": true
                     },
-                    {
-                        "responseTime": 2.846,
-                        "correct": false,
-                        "question": "9 x 4 = ?",
-                        "clickedAnswer": "68"
-                    },
-                    {
-                        "responseTime": 2.078,
-                        "correct": true,
-                        "question": "3 x 11 = ?",
-                        "clickedAnswer": 33
-                    },
-                    {
-                        "responseTime": 2.183,
-                        "correct": true,
-                        "question": "3 x 11 = ?",
-                        "clickedAnswer": 33
-                    },
-                    {
-                        "responseTime": 1.547,
-                        "correct": true,
-                        "question": "8 x 11 = ?",
-                        "clickedAnswer": 88
-                    },
-                    {
-                        "responseTime": 1.947,
-                        "correct": true,
-                        "question": "5 x 10 = ?",
-                        "clickedAnswer": 50
-                    },
-                    {
-                        "responseTime": 1.849,
-                        "correct": true,
-                        "question": "8 x 9 = ?",
-                        "clickedAnswer": 72
-                    },
-                    {
-                        "responseTime": 1.064,
-                        "correct": false,
-                        "question": "3 x 7 = ?",
-                        "clickedAnswer": "122"
-                    },
-                    {
-                        "responseTime": 1.116,
-                        "correct": true,
-                        "question": "6 x 4 = ?",
-                        "clickedAnswer": 24
-                    },
-                    {
-                        "responseTime": 1.861,
-                        "correct": true,
-                        "question": "4 x 12 = ?",
-                        "clickedAnswer": 48
-                    },
-                    {
-                        "responseTime": 2.487,
-                        "correct": false,
-                        "question": "3 x 8 = ?",
-                        "clickedAnswer": "69"
-                    },
-                    {
-                        "responseTime": 2.348,
-                        "correct": false,
-                        "question": "11 x 9 = ?",
-                        "clickedAnswer": "51"
-                    },
-                    {
-                        "responseTime": 2.928,
-                        "correct": false,
-                        "question": "12 x 7 = ?",
-                        "clickedAnswer": "no-input"
-                    },
-                    {
-                        "responseTime": 1.627,
-                        "correct": true,
-                        "question": "11 x 6 = ?",
-                        "clickedAnswer": 66
-                    },
-                    {
-                        "responseTime": 1.901,
-                        "correct": false,
-                        "question": "6 x 12 = ?",
-                        "clickedAnswer": "134"
-                    },
-                    {
-                        "responseTime": 2.068,
-                        "correct": true,
-                        "question": "3 x 9 = ?",
-                        "clickedAnswer": 27
-                    },
-                    {
-                        "responseTime": 2.921,
-                        "correct": false,
-                        "question": "5 x 5 = ?",
-                        "clickedAnswer": "no-input"
-                    },
-                    {
-                        "responseTime": 2.03,
-                        "correct": false,
-                        "question": "10 x 3 = ?",
-                        "clickedAnswer": "104"
-                    },
-                    {
-                        "responseTime": 2.014,
-                        "correct": true,
-                        "question": "7 x 3 = ?",
-                        "clickedAnswer": 21
-                    },
-                    {
-                        "responseTime": 1.498,
-                        "correct": false,
-                        "question": "7 x 12 = ?",
-                        "clickedAnswer": "88"
-                    },
-                    {
-                        "responseTime": 2.709,
-                        "correct": false,
-                        "question": "11 x 12 = ?",
-                        "clickedAnswer": "no-input"
-                    },
-                    {
-                        "responseTime": 2.604,
-                        "correct": false,
-                        "question": "6 x 4 = ?",
-                        "clickedAnswer": "no-input"
-                    },
-                    {
-                        "responseTime": 2.532,
-                        "correct": false,
-                        "question": "4 x 10 = ?",
-                        "clickedAnswer": "no-input"
-                    },
-                    {
-                        "responseTime": 1.512,
-                        "correct": true,
-                        "question": "9 x 9 = ?",
-                        "clickedAnswer": 81
-                    },
-                    {
-                        "responseTime": 2.496,
-                        "correct": false,
-                        "question": "3 x 7 = ?",
-                        "clickedAnswer": "no-input"
-                    },
-                    {
-                        "responseTime": 2.42,
-                        "correct": false,
-                        "question": "7 x 4 = ?",
-                        "clickedAnswer": "no-input"
-                    }
-                ],
-                "settings": {
-                    "standardReinforcement": true,
-                    "isMathMult": true,
-                    "moderate": true,
-                    "isQuestionPosed": true,
-                    "increaseSpawningRateExponential": true,
-                    "isSplatImages": true,
-                    "dropSpeedFast": true,
-                    "isSpeedIncreasing": true,
-                    "increaseSpeedRateExponential": true
-                },
-                "startTime": 60.426
-            }
-        ]
+                    "incorrectAnswers": 3,
+                    "endTime": 1716411504,
+                    "startTime": 5.352
+                }
+            ]
+        }
     }
 }

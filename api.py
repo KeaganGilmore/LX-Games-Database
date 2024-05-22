@@ -6,7 +6,8 @@ app = Flask(__name__)
 
 @app.route('/api/games/<user_id>/<game_type>', methods=['POST'])
 def add_game_data_api(user_id, game_type):
-    # Implementation of adding data to the database
+    data = request.get_json()
+    add_data(user_id, game_type, data)
     return jsonify({"message": "Data added successfully"}), 201
 
 @app.route('/api/games/<user_id>/<game_type>', methods=['GET'])
