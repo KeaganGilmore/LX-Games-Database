@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
-from json_data_handler import add_data, get_data, get_all_user_data, get_all_data_for_game_type
-from data_iterator import get_all_users, get_all_games
+from json_data_handler import add_data, get_data, get_all_user_data, get_all_data_for_game_type, get_all_data_for_grade
+from data_iterator import get_all_users, get_all_games, get_all_grades
 
 app = Flask(__name__)
 
@@ -46,6 +46,21 @@ def get_all_games_api():
     # Implementation of getting a list of all games
     games = get_all_games()
     return jsonify({"games": games})
+
+@app.route('/api/games/grade/<grade>', methods=['GET'])
+def get_all_data_for_grade_api(grade):
+    grade_data = get_all_data_for_grade(grade)
+    if grade_data:
+        return jsonify({grade: grade_data})
+    else:
+        return jsonify({"message": "No game data found for grade {}".format(grade)}), 404
+    
+@app.route('/api/grades', methods=['GET'])
+def get_grades_api():
+    grades = get_all_grades()
+    return jsonify({"grades": grades})
+    
+
 
 if __name__ == "__main__":
     app.run(debug=True)
