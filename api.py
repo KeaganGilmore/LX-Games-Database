@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
-from json_data_handler import add_data, get_data, get_all_user_data, get_all_data_for_game_type, get_all_data_for_grade
-from data_iterator import get_all_users, get_all_games, get_all_grades
+from stats.json_data_handler import add_data, get_data, get_all_user_data, get_all_data_for_game_type, get_all_data_for_grade, get_all_subjects_by_user
+from stats.data_iterator import get_all_users, get_all_games, get_all_grades
 
 app = Flask(__name__)
 
@@ -59,6 +59,15 @@ def get_all_data_for_grade_api(grade):
 def get_grades_api():
     grades = get_all_grades()
     return jsonify({"grades": grades})
+
+# API route to get all subjects by user
+@app.route('/api/subjects/<user_id>', methods=['GET'])
+def get_all_subjects_by_user(user_id):
+    subjects = get_all_subjects_by_user(user_id)
+    if subjects:
+        return jsonify({"user_id": user_id, "subjects": subjects})
+    else:
+        return jsonify({"error": "User not found"}), 404
     
 
 
