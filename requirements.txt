@@ -1,1 +1,4 @@
 Flask
+pyjwt
+python-dotenv
+requests

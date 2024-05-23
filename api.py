@@ -60,14 +60,6 @@ def get_grades_api():
     grades = get_all_grades()
     return jsonify({"grades": grades})
 
-# API route to get all subjects by user
-@app.route('/api/subjects/<user_id>', methods=['GET'])
-def get_all_subjects_by_user(user_id):
-    subjects = get_all_subjects_by_user(user_id)
-    if subjects:
-        return jsonify({"user_id": user_id, "subjects": subjects})
-    else:
-        return jsonify({"error": "User not found"}), 404
     
 
 
