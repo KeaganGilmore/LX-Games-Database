@@ -1,0 +1,74 @@
+[
+    {
+        "id": "4qs2qsi",
+        "name": "2 - Text, sounds and images - Computer Science - IGCSE",
+        "lessons": [
+            {
+                "id": "peahg50",
+                "title": "Representing TEXT with Binary",
+                "image_slides": [
+                    {
+                        "id": "573qjfg",
+                        "title": "1 - Lessons learning objective"
+                    },
+                    {
+                        "id": "kb6znr5",
+                        "title": "4.1 - Textbook reference"
+                    },
+                    {
+                        "id": "ts1boi3",
+                        "title": "4.2 - Textbook reference"
+                    },
+                    {
+                        "id": "g5jpglk",
+                        "title": "4.3 - Textbook reference"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ot5ui7q",
+        "name": "0 - Computer Science - IGCSE",
+        "lessons": [
+            {
+                "id": "t951qjn",
+                "title": "LearningObjectives",
+                "image_slides": []
+            }
+        ]
+    },
+    {
+        "id": "z6d17d6",
+        "name": "3 - Data storage and compression - Computer Science - IGCSE",
+        "lessons": []
+    },
+    {
+        "id": "zd0ur1z",
+        "name": "1 - Number systems - Computer Science - IGCSE",
+        "lessons": [
+            {
+                "id": "uz7rlbd",
+                "title": "1 - Binary and computers",
+                "image_slides": [
+                    {
+                        "id": "l0og0qw",
+                        "title": "pre1 - Decimal system"
+                    },
+                    {
+                        "id": "u5cetpc",
+                        "title": "pre2 - Octal system"
+                    },
+                    {
+                        "id": "fb67ws5",
+                        "title": "pre3 - Binary system"
+                    },
+                    {
+                        "id": "v2ys1k6",
+                        "title": "pre4 - Number systems game"
+                    }
+                ]
+            }
+        ]
+    }
+]
