@@ -1,0 +1,32 @@
+{
+    "id": "wkyu4sz",
+    "createdAt": "2024-01-28T09:16:49.000Z",
+    "updatedAt": "2024-01-28T09:16:52.000Z",
+    "email": "KeaganGilmore",
+    "firstName": "Keagan",
+    "lastName": "Gilmore",
+    "grade": "12",
+    "ClassId": "test-classA",
+    "uid": "wkyu4sz",
+    "roleId": 4,
+    "courses": [
+        "3ayyxmb",
+        "5iys1dt",
+        "7teiy2n",
+        "ade0t7f",
+        "eomaafv",
+        "jfzlo89",
+        "kp3z4ez",
+        "l7ui7ov",
+        "lrh75ov",
+        "oi7kp2o",
+        "rc9hm49",
+        "rd54nn7",
+        "sa4uxd3",
+        "t7mz5me",
+        "ybuix57"
+    ],
+    "fullName": "Keagan Gilmore",
+    "iat": 1716717683,
+    "exp": 1716782483
+}
