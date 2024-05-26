@@ -1,7 +1,8 @@
 from flask import Flask, request, jsonify
+import json
 from stats.json_data_handler import add_data,get_all_user_data, get_all_data_for_game_type, get_all_data_for_grade
 from stats.data_iterator import get_all_users, get_all_games, get_all_grades
-from users.userLogin import parse_json_login
+from users.userLogin import main 
 
 app = Flask(__name__)
 
@@ -61,20 +62,14 @@ def get_grades_api():
     grades = get_all_grades()
     return jsonify({"grades": grades})
 
-@app.route('/api/parse_json_login', methods=['POST'])
-def parse_json_login():
+@app.route('/api/process_data', methods=['POST'])
+def process_data():
+    input_json = request.json
     try:
-        data = request.json
-        email = data.get("Username", {}).get("text", "")
-        password = data.get("Password", {}).get("text", "")
-        response = {"email": email, "password": password}
-        return jsonify(response), 200
+        result = main(json.dumps(input_json))
+        return jsonify(result), 200
     except Exception as e:
-        print("Error:", e)
-        return jsonify({"error": "Invalid JSON input"}), 400
-
-    
-
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
     app.run(debug=True)

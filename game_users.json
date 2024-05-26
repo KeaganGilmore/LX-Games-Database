@@ -1,32 +1,605 @@
 {
-    "id": "wkyu4sz",
-    "createdAt": "2024-01-28T09:16:49.000Z",
-    "updatedAt": "2024-01-28T09:16:52.000Z",
-    "email": "KeaganGilmore",
-    "firstName": "Keagan",
-    "lastName": "Gilmore",
-    "grade": "12",
-    "ClassId": "test-classA",
-    "uid": "wkyu4sz",
-    "roleId": 4,
-    "courses": [
-        "3ayyxmb",
-        "5iys1dt",
-        "7teiy2n",
-        "ade0t7f",
-        "eomaafv",
-        "jfzlo89",
-        "kp3z4ez",
-        "l7ui7ov",
-        "lrh75ov",
-        "oi7kp2o",
-        "rc9hm49",
-        "rd54nn7",
-        "sa4uxd3",
-        "t7mz5me",
-        "ybuix57"
-    ],
-    "fullName": "Keagan Gilmore",
-    "iat": 1716717683,
-    "exp": 1716782483
+    "nw80eh5": {
+        "id": "nw80eh5",
+        "createdAt": "2024-03-02T14:44:58.000Z",
+        "updatedAt": "2024-03-02T14:45:11.000Z",
+        "email": "JaydenVawdrey",
+        "firstName": "Jayden",
+        "lastName": "Vawdrey",
+        "grade": "Grade 11",
+        "ClassId": "",
+        "uid": "nw80eh5",
+        "roleId": 4,
+        "courses": {
+            "sljewjh": {
+                "id": "sljewjh",
+                "name": "1 Introdunction to Delphi",
+                "lessons": [
+                    {
+                        "id": "bpm3utt",
+                        "title": "Variables",
+                        "image_slides": []
+                    },
+                    {
+                        "id": "byci82j",
+                        "title": "If Statements and Cases",
+                        "image_slides": [
+                            {
+                                "id": "wm15vd5",
+                                "title": "3 Stucture Flowchart"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "wsu2mur",
+                        "title": "Repetition",
+                        "image_slides": [
+                            {
+                                "id": "ikmsvh2",
+                                "title": "4 Flowchart Of A While Loop"
+                            },
+                            {
+                                "id": "tf334a3",
+                                "title": "2 Flowchart Of A For Loop"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "jc0dj0i",
+                        "title": "Subroutines",
+                        "image_slides": []
+                    },
+                    {
+                        "id": "vlgempp",
+                        "title": "Classes",
+                        "image_slides": []
+                    }
+                ]
+            }
+        },
+        "fullName": "Jayden Vawdrey",
+        "iat": 1716731431,
+        "exp": 1716796231
+    },
+    "wkyu4sz": {
+        "id": "wkyu4sz",
+        "createdAt": "2024-01-28T09:16:49.000Z",
+        "updatedAt": "2024-01-28T09:16:52.000Z",
+        "email": "KeaganGilmore",
+        "firstName": "Keagan",
+        "lastName": "Gilmore",
+        "grade": "12",
+        "ClassId": "test-classA",
+        "uid": "wkyu4sz",
+        "roleId": 4,
+        "courses": {
+            "3ayyxmb": {
+                "id": "3ayyxmb",
+                "name": "2 - The Cell and Its Functions - HS 2211",
+                "lessons": [
+                    {
+                        "id": "9a10tpq",
+                        "title": "Organization of the Cell",
+                        "image_slides": [
+                            {
+                                "id": "rbon986",
+                                "title": "Water"
+                            },
+                            {
+                                "id": "2rusy5h",
+                                "title": "Protoplasm"
+                            },
+                            {
+                                "id": "7oft6ci",
+                                "title": "Lipids"
+                            },
+                            {
+                                "id": "p25lmpe",
+                                "title": "Carbohydrates"
+                            },
+                            {
+                                "id": "eer76ne",
+                                "title": "Ions"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "otr75a0",
+                        "title": "Cell Membrane Structure - Part 1: Membrane & Endoplasmic Reticulum",
+                        "image_slides": [
+                            {
+                                "id": "wt0701n",
+                                "title": "Diagram"
+                            },
+                            {
+                                "id": "6vqebpe",
+                                "title": "Integral and Peripheral Proteins"
+                            },
+                            {
+                                "id": "hlocyl7",
+                                "title": "Different types of Endoplasmic Reticulum"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "v82fic3",
+                        "title": "Cell Membrane Structure - Part 2: Organelles",
+                        "image_slides": [
+                            {
+                                "id": "2rg6617",
+                                "title": "Secretory Vessels"
+                            },
+                            {
+                                "id": "s2xdpdj",
+                                "title": "Lyosomes"
+                            },
+                            {
+                                "id": "vifogkn",
+                                "title": "Cell Cytoskeleton"
+                            },
+                            {
+                                "id": "wrzx4ph",
+                                "title": "Nucleus"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "5iys1dt": {
+                "id": "5iys1dt",
+                "name": "5 - Joints - HS 2211",
+                "lessons": [
+                    {
+                        "id": "dq2pari",
+                        "title": "Joints System",
+                        "image_slides": [
+                            {
+                                "id": "d4av2pu",
+                                "title": "Overview"
+                            },
+                            {
+                                "id": "rfvyevd",
+                                "title": "Synovial Membrane"
+                            },
+                            {
+                                "id": "h9q9bw9",
+                                "title": "Synovial Joint with Major Features"
+                            },
+                            {
+                                "id": "04otlq9",
+                                "title": "Solid Joints"
+                            },
+                            {
+                                "id": "sen5mxn",
+                                "title": "Solid Joints Mnemonic"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "x6krx6i",
+                        "title": "Joints Pathology",
+                        "image_slides": []
+                    }
+                ]
+            },
+            "7teiy2n": {
+                "id": "7teiy2n",
+                "name": "7 - Social Determinants of Health - HS 2711",
+                "lessons": [
+                    {
+                        "id": "wutpsj9",
+                        "title": "1- The Social Gradient",
+                        "image_slides": [
+                            {
+                                "id": "0uz8uyf",
+                                "title": "Data Analysis"
+                            },
+                            {
+                                "id": "f4yxifs",
+                                "title": "Consequences of Social Gradient Policy "
+                            },
+                            {
+                                "id": "qwsxvre",
+                                "title": "Unemployment"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "eljujoz",
+                        "title": "2 - Stress",
+                        "image_slides": [
+                            {
+                                "id": "07r9yuo",
+                                "title": "Stress with Health"
+                            },
+                            {
+                                "id": "fdous2k",
+                                "title": "Data on Stress"
+                            },
+                            {
+                                "id": "lh3gxmk",
+                                "title": "Stress Policy"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6e1upi7",
+                        "title": "3 - Early Life",
+                        "image_slides": []
+                    }
+                ]
+            },
+            "ade0t7f": {
+                "id": "ade0t7f",
+                "name": "Company - LX",
+                "lessons": [
+                    {
+                        "id": "9156phv",
+                        "title": "LX Documentation",
+                        "image_slides": []
+                    }
+                ]
+            },
+            "eomaafv": {
+                "id": "eomaafv",
+                "name": "10 -  Introduction to the Nervous System",
+                "lessons": [
+                    {
+                        "id": "yxyh1hg",
+                        "title": "Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters ",
+                        "image_slides": [
+                            {
+                                "id": "m0a5ga2",
+                                "title": "2 - Neurons: The Basic Unit of the CNS"
+                            },
+                            {
+                                "id": "rsxlgij",
+                                "title": "7 - Diagram Representation"
+                            },
+                            {
+                                "id": "117f92c",
+                                "title": "9 - Sensory Processing"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "4wa5dnh",
+                        "title": "Sensory Receptors, Neuronal Circuits for Processing Information",
+                        "image_slides": []
+                    },
+                    {
+                        "id": "po0pkd0",
+                        "title": "The Body",
+                        "image_slides": []
+                    }
+                ]
+            },
+            "jfzlo89": {
+                "id": "jfzlo89",
+                "name": "Modes",
+                "lessons": [
+                    {
+                        "id": "s5kmj11",
+                        "title": "Outline",
+                        "image_slides": []
+                    },
+                    {
+                        "id": "n9l18ww",
+                        "title": "Research",
+                        "image_slides": []
+                    }
+                ]
+            },
+            "kp3z4ez": {
+                "id": "kp3z4ez",
+                "name": "4 - Skeletal System - HS 2211",
+                "lessons": [
+                    {
+                        "id": "9y54h3e",
+                        "title": "Skeletal System",
+                        "image_slides": [
+                            {
+                                "id": "1hccthf",
+                                "title": "Bone Marrow"
+                            },
+                            {
+                                "id": "3fu53gh",
+                                "title": "Cartilage Types "
+                            },
+                            {
+                                "id": "gkj271m",
+                                "title": "Cartilage"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "kye3wmq",
+                        "title": "Skeletal System Pathology",
+                        "image_slides": [
+                            {
+                                "id": "8ego9xh",
+                                "title": "Osteoperosis"
+                            },
+                            {
+                                "id": "e65zpjg",
+                                "title": "Avascular Necrosis Radiology to Visual"
+                            },
+                            {
+                                "id": "hkg78wx",
+                                "title": "Avascular Necrosis Radiology"
+                            },
+                            {
+                                "id": "utknehb",
+                                "title": "Avascular Necrosis"
+                            },
+                            {
+                                "id": "xo20urh",
+                                "title": "Fracture Types"
+                            },
+                            {
+                                "id": "zq2kiex",
+                                "title": "Overview"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "l7ui7ov": {
+                "id": "l7ui7ov",
+                "name": "1 - Functional Organization of the Human Body and Control of the \u201cInternal Environment\" - HS 2211",
+                "lessons": [
+                    {
+                        "id": "a6bmcz4",
+                        "title": "1 - CELLS ARE THE LIVING UNITS OF THE BODY",
+                        "image_slides": [
+                            {
+                                "id": "3aw1uky",
+                                "title": "Microogranisms in the body"
+                            },
+                            {
+                                "id": "8qwbvp7",
+                                "title": "Cells as a Basic Unit of Life"
+                            },
+                            {
+                                "id": "adffi2t",
+                                "title": "Levels of Organization in the Human Body"
+                            },
+                            {
+                                "id": "fojms7c",
+                                "title": "Intracellular vs Extracellular Fluid Substances Mnemonic"
+                            },
+                            {
+                                "id": "ip5h6xv",
+                                "title": "Extracellular and Intracellular Fluid"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "hwu6bwf",
+                        "title": "2 - HOMEOSTASIS",
+                        "image_slides": [
+                            {
+                                "id": "39qxc1a",
+                                "title": "The Orchestration of the Bodily Choir"
+                            },
+                            {
+                                "id": "4tvu5ok",
+                                "title": "Extracellular Fluid Transportation"
+                            },
+                            {
+                                "id": "g48rhqu",
+                                "title": "Removal of Metabolic End Products"
+                            },
+                            {
+                                "id": "rwfijlv",
+                                "title": "Circulatory Flow "
+                            },
+                            {
+                                "id": "yznfdlu",
+                                "title": "Circulatory Flow Diagram"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "pqr0eft",
+                        "title": "3 - HOMEOSTATIC CONTROL",
+                        "image_slides": [
+                            {
+                                "id": "0m2tiy8",
+                                "title": "HOMEOSTATIC CONTROL OVERVIEW"
+                            },
+                            {
+                                "id": "6l0ml5c",
+                                "title": "Physical Characteristics of Important Extracellular Fluid Constituents"
+                            },
+                            {
+                                "id": "wpu50nm",
+                                "title": "Positive Feedback Example"
+                            },
+                            {
+                                "id": "901jwhf",
+                                "title": "Negative Feedback Example"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "lrh75ov": {
+                "id": "lrh75ov",
+                "name": "3 - Genetic Control of Protein Synthesis, Cell Function, and Cell Reproduction - HS 2211",
+                "lessons": [
+                    {
+                        "id": "o7ttdnn",
+                        "title": "Cell Nucleus Genes Control Protein Synthesis",
+                        "image_slides": [
+                            {
+                                "id": "tp0s49s",
+                                "title": "Diagram of the General Schema whereby Genes Control Cell Function"
+                            },
+                            {
+                                "id": "h9vvmfj",
+                                "title": "Diagram"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "oi7kp2o": {
+                "id": "oi7kp2o",
+                "name": "1 - History and Overview of Infectious Disease - HS 2212",
+                "lessons": [
+                    {
+                        "id": "3x1wr18",
+                        "title": "1 - Ancient Medicine (Prehistory\u20135th Century BCE)",
+                        "image_slides": [
+                            {
+                                "id": "4zk3vqa",
+                                "title": "Origins of Healing Practices"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "id8zoeu",
+                        "title": "2 - Medieval Medicine (6th\u201315th Century)",
+                        "image_slides": []
+                    },
+                    {
+                        "id": "xizuukc",
+                        "title": "3 - Early Modern Medicine (16th\u201318th Century)",
+                        "image_slides": []
+                    }
+                ]
+            },
+            "rc9hm49": {
+                "id": "rc9hm49",
+                "name": "6 - Muscular System - HS 2211",
+                "lessons": [
+                    {
+                        "id": "isjhfed",
+                        "title": "Muscular System",
+                        "image_slides": []
+                    },
+                    {
+                        "id": "4hby78u",
+                        "title": "Muscular Pathology",
+                        "image_slides": []
+                    }
+                ]
+            },
+            "rd54nn7": {
+                "id": "rd54nn7",
+                "name": "14 - Cardiovascular System",
+                "lessons": [
+                    {
+                        "id": "sm0894v",
+                        "title": "1 - Anatomy and Physiology of the Human Heart",
+                        "image_slides": [
+                            {
+                                "id": "2s8xq0y",
+                                "title": "2 - Muscles of the Heart"
+                            },
+                            {
+                                "id": "95fhd1s",
+                                "title": "4 - Cardiac Muscle Is a Syncytium"
+                            },
+                            {
+                                "id": "6xcqfes",
+                                "title": "7 - Mechanisms of excitation-contraction in Cardiac Muscle"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8pxahw1",
+                        "title": "2 - Anatomy and Physiology of Cardiovascular Circulation",
+                        "image_slides": []
+                    },
+                    {
+                        "id": "xp2vq7d",
+                        "title": "3 - Blood Anatomy and Physiology",
+                        "image_slides": []
+                    }
+                ]
+            },
+            "sa4uxd3": {
+                "id": "sa4uxd3",
+                "name": "LX Presentation",
+                "lessons": [
+                    {
+                        "id": "agq17jb",
+                        "title": "Presentation",
+                        "image_slides": [
+                            {
+                                "id": "znjr2aj",
+                                "title": "What is LX Library?"
+                            },
+                            {
+                                "id": "idan3ao",
+                                "title": "Embracing Story"
+                            },
+                            {
+                                "id": "6k5ypv6",
+                                "title": "Mnemonics"
+                            },
+                            {
+                                "id": "vmmb7es",
+                                "title": "Wrapping it Together"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "t7mz5me": {
+                "id": "t7mz5me",
+                "name": "17 - Anatomy and Physiology of Digestive Tract and Metabolic Reactions",
+                "lessons": [
+                    {
+                        "id": "jkgp2l3",
+                        "title": "1 - Anatomy and Physiology of the Digestive Tract",
+                        "image_slides": [
+                            {
+                                "id": "o7glfv5",
+                                "title": "2 - The Gastrointestinal Wall"
+                            },
+                            {
+                                "id": "hdq22su",
+                                "title": "4 - Cross Section of the Gut."
+                            },
+                            {
+                                "id": "c9csrxy",
+                                "title": "8 - Smooth Muscle Action Potential Chart"
+                            },
+                            {
+                                "id": "1qj45hz",
+                                "title": "11 - Neural Control  \u2014 Enteric Nervous System"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "5t5khwu",
+                        "title": "2 - Chemical Digestion and Absorption",
+                        "image_slides": []
+                    },
+                    {
+                        "id": "2vj640f",
+                        "title": "3 - Metabolism of Carbohydrates, Lipids, and Proteins",
+                        "image_slides": []
+                    }
+                ]
+            },
+            "ybuix57": {
+                "id": "ybuix57",
+                "name": "2 - Evaluation of Disease Surveillance Systems - HS 2212",
+                "lessons": [
+                    {
+                        "id": "qu0vlv6",
+                        "title": "Outbreaks & Surveilance",
+                        "image_slides": []
+                    }
+                ]
+            }
+        },
+        "fullName": "Keagan Gilmore",
+        "iat": 1716732291,
+        "exp": 1716797091
+    }
 }
